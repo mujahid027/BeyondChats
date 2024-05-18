@@ -9,3 +9,4 @@ Make sure you have Python 3 and `pip` installed. Then, install the required depe
 
 ```bash
 pip install spacy requests
+python -m spacy download en_core_web_sm
